@@ -8,7 +8,7 @@ public class SpringFordPocController {
 	
 	@GetMapping("/welcome")
 	public String getMessage() {
-		return "Hi Welcome, Spring Boot App Azure Deployment POC";
+		return "Welcome to Your Next Chapter: Spring Boot App Takes Flight with Azure Deployment POC!";
 	}
 
 }
